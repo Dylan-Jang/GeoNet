@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoNet", "IP2Country\GeoNet.csproj", "{8C0BCA45-133E-48CA-A97E-E2BDAF99C28A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoNet", "GeoNet\GeoNet.csproj", "{8C0BCA45-133E-48CA-A97E-E2BDAF99C28A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoNetConsole", "IP2Console\GeoNetConsole.csproj", "{2AD41FF0-55A6-4F61-A981-CD066D1B11A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoNetConsole", "GeoNetConsole\GeoNetConsole.csproj", "{2AD41FF0-55A6-4F61-A981-CD066D1B11A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
