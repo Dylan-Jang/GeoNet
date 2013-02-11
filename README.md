@@ -11,5 +11,6 @@ The aim is to keep it very simple, with minimal external dependecies. There are 
 
 -------------
 
+Full details here: http://www.partyark.co.uk/techblog/
 
-Initially developed for use on http://www.partyark.co.uk
+
