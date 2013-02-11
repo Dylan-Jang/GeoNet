@@ -9,6 +9,9 @@ It's MIT licensed, so completely free.
 
 The aim is to keep it very simple, with minimal external dependecies. There are no database files to keep updated, or any reliance on 3rd party modules with the exception of protobuf.
 
+If you find it useful, do please consider linking to our web shop selling children's party supplies at:
+http://www.partyark.co.uk
+
 -------------
 
 Full details here: http://www.partyark.co.uk/techblog/
