@@ -13,4 +13,11 @@ The aim is to keep it very simple, with minimal external dependecies. There are 
 
 Full details here: http://www.partyark.co.uk/techblog/
 
+-------------
 
+HOW TO BUILD:
+
+You can compile right out of the box, but if you want to build your own:
+1. Run the console application. This will generate a binary file 'geonet.bin'
+2. Put the file in the Resources folder of the GeoNet project
+3. Compile Geonet.
