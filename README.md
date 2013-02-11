@@ -1,9 +1,9 @@
 GeoNet
 ======
 
-A GeoLocation by IP Address library for .Net
+A GeoLocation by IP Address library for .Net written in C#.
 
-This is a very simple, but fast, library allowing querying of IP address location (country only) written in C#.
+This is a very simple, but fast, library allowing querying of IP address location (country only) written in C#. It should work with ipv6 too, but I haven't been able to test properly.
 
 It's MIT licensed, so completely free.
 
@@ -21,6 +21,6 @@ Full details here: http://www.partyark.co.uk/techblog/
 HOW TO BUILD:
 
 You can compile right out of the box, but if you want to build your own:
-1. Run the console application. This will generate a binary file 'geonet.bin'
-2. Put the file in the Resources folder of the GeoNet project
-3. Compile Geonet.
+* Run the console application. This will generate a binary file 'geonet.bin'
+* Put the file in the Resources folder of the GeoNet project
+* Compile Geonet.
